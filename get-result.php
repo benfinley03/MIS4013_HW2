@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Get result";
-include "view-header";
+include "view-header.php";
 ?>
 <h1>Get result</h1>
 <?php
@@ -14,5 +14,5 @@ if (isset($_GET['my-name'])) {
   <php>Nothing sent to the page.</php>
 <?php
 }
-include "view-footer";
+include "view-footer.php";
 ?>
