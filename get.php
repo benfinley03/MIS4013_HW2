@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Get";
-include "view-header";
+include "view-header.php";
 ?>
 <h1>Get</h1>
 <form method="get" action="get-result.php">
@@ -8,5 +8,5 @@ include "view-header";
   <input type="submit" value="Get data">
 </form>
 <?php
-include "view-footer";
+include "view-footer.php";
 ?>
