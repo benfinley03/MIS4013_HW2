@@ -13,7 +13,7 @@
 </head>
     
 <footer id="footer">
-  <div id="footer-content"><h6>Please Read this footer: This ranking has no specific criteria and is completely based on my opinion.<h6></div>
+  <div id="footer-content"><h6> This is my footer for the homework.</h6></div>
 </footer>
       </section>
     </div>
