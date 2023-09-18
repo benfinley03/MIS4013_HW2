@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Post result";
-include "view-header";
+include "view-header.php";
 ?>
 <h1>Post result</h1>
 <?php
@@ -14,5 +14,5 @@ if (isset($_POST['my-name'])) {
   <php>Nothing posted to the page.</php>
 <?php
 }
-include "view-footer";
+include "view-footer.php";
 ?>
