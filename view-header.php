@@ -18,7 +18,7 @@
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="#">Home</a>
         <a class="nav-link" href="post.php">Post</a>
-        <a class="nav-link" href="post-result.php">Post result</a>
+        <a class="nav-link" href="post-results.php">Post result</a>
         <a class="nav-link" href="get.php">Get</a>
         <a class="nav-link" href="get-result.php">Get result</a>
       </div>
