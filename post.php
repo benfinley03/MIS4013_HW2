@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Post";
-include "view-header";
+include "view-header.php";
 ?>
 <h1>Post</h1>
 <form method="post" action="post-result.php">
@@ -8,5 +8,5 @@ include "view-header";
   <input type="submit" value="Post data">
 </form>
 <?php
-include "view-footer";
+include "view-footer.php";
 ?>
